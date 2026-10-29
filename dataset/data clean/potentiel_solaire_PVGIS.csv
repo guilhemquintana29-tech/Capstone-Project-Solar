@@ -1,0 +1,7 @@
+codeDepartement;departement;ville_reference;latitude;longitude;inclinaison_deg;orientation_deg;pertes_pct;productible_PVGIS_kWh_kWc;irradiation_plan_kWh_m2
+04;Alpes-de-Haute-Provence;Digne-les-Bains;44.0935;6.2353;35;0;14;1508.49;1899.17
+05;Hautes-Alpes;Gap;44.5594;6.0794;35;0;14;1536.45;1941.9
+07;Ardeche;Privas;44.7352;4.5991;35;0;14;1396.91;1754.1
+26;Drome;Valence;44.9333;4.8921;35;0;14;1391.71;1760.0
+38;Isere;Grenoble;45.1864;5.7364;35;0;14;1362.07;1713.36
+84;Vaucluse;Avignon;43.9493;4.8055;35;0;14;1560.26;1979.23
